@@ -1,0 +1,1 @@
+time ../bin/m_brainfuck ../examples/Print0to9.bf --c  && time ../bin/m_brainfuck ../examples/Print0to9.bf
